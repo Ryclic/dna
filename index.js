@@ -1,1 +1,5 @@
-console.log("Hello world!")
+function show(name){
+    console.log("Hello, " + name)
+}
+
+show('Ryan')
